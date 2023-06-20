@@ -7,4 +7,4 @@
 3. Run main.py
 
 Feel free to open a pull request i check every one. 
-https://discord.gg/fjueVRzQkn - Mouad#1111
+\n https://discord.gg/fjueVRzQkn - Mouad#1111
