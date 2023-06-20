@@ -6,4 +6,5 @@
 2. Put proxies in proxies.txt (free ones work)
 3. Run main.py
 
-Feel free to open a pull request i check every one.
+Feel free to open a pull request i check every one. 
+https://discord.gg/fjueVRzQkn - Mouad#1111
